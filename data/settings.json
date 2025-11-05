@@ -1,0 +1,33 @@
+{
+  "brandName": "Your Caf\u00e9",
+  "heroTitle": "Coffee, Conversations, and a Cozy Corner.",
+  "heroSubtitle": "A neighborhood caf\u00e9 serving handcrafted brews and warm bakes.",
+  "brandStory": {
+    "title": "From a tiny roaster to your favorite corner.",
+    "paragraph1": "We started with a simple idea: good coffee tastes better with good company. What began as a home roaster and a few friends is now a warm, welcoming space for everyone.",
+    "paragraph2": "Our beans are ethically sourced and roasted in small batches. The aromas change with the seasons, but the feeling stays the same \u2014 familiar, cozy, and full of stories."
+  },
+  "hours": [
+    {
+      "day": "Mon\u2013Fri",
+      "time": "8:00 AM \u2013 10:00 PM"
+    },
+    {
+      "day": "Sat\u2013Sun",
+      "time": "9:00 AM \u2013 11:00 PM"
+    }
+  ],
+  "contact": {
+    "phone": "+91 98765 43210",
+    "email": "hello@yourcafe.in"
+  },
+  "location": {
+    "address": "12 Market Road, Indiranagar, Bengaluru",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.0100000000002!2d77.640!3d12.9716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17%3A0x0!2sYour%20Cafe!5e0!3m2!1sen!2sin!4v1690000000000"
+  },
+  "socials": {
+    "instagram": "https://instagram.com/yourcafe",
+    "facebook": "https://facebook.com/yourcafe",
+    "maps": "https://maps.app.goo.gl/yourcafe"
+  }
+}

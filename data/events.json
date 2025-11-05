@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "title": "Open Mic Night",
+      "date": "Every Friday, 7 PM",
+      "subtitle": "Music \u2022 Poetry \u2022 Stories",
+      "content": "Sign up at the counter by 6:30 PM.",
+      "link": ""
+    },
+    {
+      "title": "Winter Specials Week",
+      "date": "Dec 10\u201317",
+      "subtitle": "Limited-time seasonal menu",
+      "content": "Try our spiced orange mocha and gingerbread latte.",
+      "link": ""
+    },
+    {
+      "title": "Press Mention",
+      "date": "Nov 2025",
+      "subtitle": "Featured in City Food Guide",
+      "content": "We\u2019re honored to be listed among the city\u2019s coziest caf\u00e9s.",
+      "link": "https://example.com/article"
+    }
+  ]
+}

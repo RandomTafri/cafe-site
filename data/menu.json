@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "Classics",
+      "items": [
+        {
+          "name": "Espresso",
+          "desc": "Rich & bold",
+          "price": "\u20b9120"
+        },
+        {
+          "name": "Cappuccino",
+          "desc": "Velvety foam",
+          "price": "\u20b9180"
+        },
+        {
+          "name": "Latte",
+          "desc": "Smooth & milky",
+          "price": "\u20b9180"
+        }
+      ]
+    },
+    {
+      "name": "Signatures",
+      "items": [
+        {
+          "name": "Spiced Mocha",
+          "desc": "Cocoa + house spices",
+          "price": "\u20b9220"
+        },
+        {
+          "name": "Honey Cinnamon Latte",
+          "desc": "Warm & cozy",
+          "price": "\u20b9220"
+        }
+      ]
+    }
+  ]
+}
